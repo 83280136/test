@@ -1,2 +1,2 @@
 # test
-hello word , How to learn about GetHub?
+hello word , How to learn about GitHub?
